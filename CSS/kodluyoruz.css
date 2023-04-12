@@ -47,3 +47,22 @@
 .backgroundcolor{
   background-color: blueviolet;
 }
+
+#mavi{
+    background-color: #0000FF;
+  }
+  #lila{
+    color: #c8a2c8;
+  }
+
+  [name]{
+    color: orange;
+  }
+
+  .btn[disabled] {
+    color: orchid;
+  }
+  
+  div[title="isim"] {
+    color: orange;
+  }
